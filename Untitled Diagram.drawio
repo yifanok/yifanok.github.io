@@ -1,1 +1,323 @@
-<mxfile host="app.diagrams.net" modified="2021-07-16T02:55:19.001Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" version="14.8.6" etag="pzBQpzGT_JDC3wUG7BHk" type="github"><diagram id="8CmHF5jqV8Khxb51XLoA">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-07-16T02:56:12.900Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="ig_scBAlKGmh6EWsPlmf" version="14.8.6" type="github">
+  <diagram id="8CmHF5jqV8Khxb51XLoA" name="Page-1">
+    <mxGraphModel dx="1021" dy="464" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="4Ih9Qz1Q6WMVKYqHJTV2-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4Ih9Qz1Q6WMVKYqHJTV2-2" target="4Ih9Qz1Q6WMVKYqHJTV2-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4Ih9Qz1Q6WMVKYqHJTV2-2" value="发起会议预约" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="246" y="210" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4Ih9Qz1Q6WMVKYqHJTV2-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4Ih9Qz1Q6WMVKYqHJTV2-5" target="4Ih9Qz1Q6WMVKYqHJTV2-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4Ih9Qz1Q6WMVKYqHJTV2-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.477;entryY=-0.005;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="303" y="422" as="sourcePoint" />
+            <mxPoint x="305.69999999999993" y="449.75" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4Ih9Qz1Q6WMVKYqHJTV2-5" value="是否需要&lt;br&gt;视频会议" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="1">
+          <mxGeometry x="250" y="342" width="110" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4Ih9Qz1Q6WMVKYqHJTV2-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4Ih9Qz1Q6WMVKYqHJTV2-7" target="4Ih9Qz1Q6WMVKYqHJTV2-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4Ih9Qz1Q6WMVKYqHJTV2-7" value="勾选具有视频会议&lt;br&gt;功能的会议室" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="406" y="357" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="4Ih9Qz1Q6WMVKYqHJTV2-8" value="当前时间段&lt;br&gt;语音转写并发&lt;br&gt;是否超过3路" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="1">
+          <mxGeometry x="246" y="618" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4Ih9Qz1Q6WMVKYqHJTV2-9" value="1、办公人员会议预约" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="140" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="4Ih9Qz1Q6WMVKYqHJTV2-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4Ih9Qz1Q6WMVKYqHJTV2-11" target="4Ih9Qz1Q6WMVKYqHJTV2-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4Ih9Qz1Q6WMVKYqHJTV2-11" value="填写预约信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="246" y="275" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4Ih9Qz1Q6WMVKYqHJTV2-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4Ih9Qz1Q6WMVKYqHJTV2-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="306" y="618" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4Ih9Qz1Q6WMVKYqHJTV2-13" value="填写本地会议&lt;br&gt;预约信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="540" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="4Ih9Qz1Q6WMVKYqHJTV2-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="630" y="880" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="306" y="880" />
+            </Array>
+            <mxPoint x="306" y="698" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4Ih9Qz1Q6WMVKYqHJTV2-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="4Ih9Qz1Q6WMVKYqHJTV2-72">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="576" y="657.9999999999999" as="targetPoint" />
+            <mxPoint x="367" y="658" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4Ih9Qz1Q6WMVKYqHJTV2-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="4Ih9Qz1Q6WMVKYqHJTV2-20" target="4Ih9Qz1Q6WMVKYqHJTV2-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4Ih9Qz1Q6WMVKYqHJTV2-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4Ih9Qz1Q6WMVKYqHJTV2-20" target="4Ih9Qz1Q6WMVKYqHJTV2-61">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="636" y="960" />
+              <mxPoint x="147" y="960" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4Ih9Qz1Q6WMVKYqHJTV2-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4Ih9Qz1Q6WMVKYqHJTV2-20" target="4Ih9Qz1Q6WMVKYqHJTV2-74">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="636" y="960" />
+              <mxPoint x="297" y="960" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4Ih9Qz1Q6WMVKYqHJTV2-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4Ih9Qz1Q6WMVKYqHJTV2-20" target="4Ih9Qz1Q6WMVKYqHJTV2-28">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="636" y="960" />
+              <mxPoint x="466" y="960" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4Ih9Qz1Q6WMVKYqHJTV2-20" value="流程结束" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="576" y="902" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4Ih9Qz1Q6WMVKYqHJTV2-21" value="Y" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="356" y="363" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="4Ih9Qz1Q6WMVKYqHJTV2-22" value="N" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="299" y="422" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="4Ih9Qz1Q6WMVKYqHJTV2-23" value="Y" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="366" y="638" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="4Ih9Qz1Q6WMVKYqHJTV2-24" value="N" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="708" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="4Ih9Qz1Q6WMVKYqHJTV2-25" value="2、开会过程" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="141" y="1200" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="4Ih9Qz1Q6WMVKYqHJTV2-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="4Ih9Qz1Q6WMVKYqHJTV2-20" target="4Ih9Qz1Q6WMVKYqHJTV2-33">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="636" y="960" />
+              <mxPoint x="806" y="960" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4Ih9Qz1Q6WMVKYqHJTV2-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="4Ih9Qz1Q6WMVKYqHJTV2-28">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="466.19047619047615" y="1060" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4Ih9Qz1Q6WMVKYqHJTV2-28" value="生成会议预约&lt;br&gt;信息至发布系统" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="406" y="982" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4Ih9Qz1Q6WMVKYqHJTV2-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4Ih9Qz1Q6WMVKYqHJTV2-30" target="4Ih9Qz1Q6WMVKYqHJTV2-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4Ih9Qz1Q6WMVKYqHJTV2-30" value="刷卡/人脸进入会议室，同步会议签到" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="367" y="1337" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4Ih9Qz1Q6WMVKYqHJTV2-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4Ih9Qz1Q6WMVKYqHJTV2-33" target="4Ih9Qz1Q6WMVKYqHJTV2-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4Ih9Qz1Q6WMVKYqHJTV2-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4Ih9Qz1Q6WMVKYqHJTV2-33" target="4Ih9Qz1Q6WMVKYqHJTV2-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4Ih9Qz1Q6WMVKYqHJTV2-33" value="生成参会人员数据至人脸平台" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="746" y="982" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4Ih9Qz1Q6WMVKYqHJTV2-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4Ih9Qz1Q6WMVKYqHJTV2-37" target="4Ih9Qz1Q6WMVKYqHJTV2-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4Ih9Qz1Q6WMVKYqHJTV2-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4Ih9Qz1Q6WMVKYqHJTV2-37" target="4Ih9Qz1Q6WMVKYqHJTV2-47">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="281" y="1487" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="427" y="1457" />
+              <mxPoint x="281" y="1457" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4Ih9Qz1Q6WMVKYqHJTV2-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4Ih9Qz1Q6WMVKYqHJTV2-37" target="4Ih9Qz1Q6WMVKYqHJTV2-50">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="427" y="1457" />
+              <mxPoint x="571" y="1457" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4Ih9Qz1Q6WMVKYqHJTV2-37" value="会议组织者&lt;br&gt;一键开启设备" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="367" y="1407" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4Ih9Qz1Q6WMVKYqHJTV2-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="4Ih9Qz1Q6WMVKYqHJTV2-40" target="4Ih9Qz1Q6WMVKYqHJTV2-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4Ih9Qz1Q6WMVKYqHJTV2-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="4Ih9Qz1Q6WMVKYqHJTV2-40">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="806" y="1062" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4Ih9Qz1Q6WMVKYqHJTV2-40" value="生成参会人员数据&lt;br&gt;至安防平台" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="576" y="982" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4Ih9Qz1Q6WMVKYqHJTV2-41" value="智能门锁&lt;br&gt;准入权限" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="576" y="1062" width="120" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="4Ih9Qz1Q6WMVKYqHJTV2-42" value="会议签到&lt;br&gt;人员数据" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="746" y="1062" width="120" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="4Ih9Qz1Q6WMVKYqHJTV2-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4Ih9Qz1Q6WMVKYqHJTV2-44" target="4Ih9Qz1Q6WMVKYqHJTV2-30">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="317" y="1307" />
+              <mxPoint x="427" y="1307" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4Ih9Qz1Q6WMVKYqHJTV2-44" value="信息发布屏实时显示当前会议室状态" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="257" y="1247" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4Ih9Qz1Q6WMVKYqHJTV2-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4Ih9Qz1Q6WMVKYqHJTV2-46" target="4Ih9Qz1Q6WMVKYqHJTV2-30">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="553" y="1307" />
+              <mxPoint x="427" y="1307" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4Ih9Qz1Q6WMVKYqHJTV2-46" value="提前15分钟，自动提醒视频会议召开信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="493" y="1247" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4Ih9Qz1Q6WMVKYqHJTV2-47" value="有线/无线投屏" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="221" y="1477" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4Ih9Qz1Q6WMVKYqHJTV2-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4Ih9Qz1Q6WMVKYqHJTV2-49" target="4Ih9Qz1Q6WMVKYqHJTV2-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4Ih9Qz1Q6WMVKYqHJTV2-49" value="空调、窗帘等其他机电系统同步控制" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="367" y="1477" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4Ih9Qz1Q6WMVKYqHJTV2-50" value="一键参加视频会议" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="511" y="1477" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4Ih9Qz1Q6WMVKYqHJTV2-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4Ih9Qz1Q6WMVKYqHJTV2-55" target="4Ih9Qz1Q6WMVKYqHJTV2-56">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="317" y="1607" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="427" y="1597" />
+              <mxPoint x="277" y="1597" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4Ih9Qz1Q6WMVKYqHJTV2-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4Ih9Qz1Q6WMVKYqHJTV2-55" target="4Ih9Qz1Q6WMVKYqHJTV2-57">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4Ih9Qz1Q6WMVKYqHJTV2-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4Ih9Qz1Q6WMVKYqHJTV2-55" target="4Ih9Qz1Q6WMVKYqHJTV2-58">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="427" y="1597" />
+              <mxPoint x="571" y="1597" />
+              <mxPoint x="571" y="1627" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4Ih9Qz1Q6WMVKYqHJTV2-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4Ih9Qz1Q6WMVKYqHJTV2-55" target="4Ih9Qz1Q6WMVKYqHJTV2-67">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="760" y="1597" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="427" y="1597" />
+              <mxPoint x="715" y="1597" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4Ih9Qz1Q6WMVKYqHJTV2-55" value="会议结束，一键关机" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="367" y="1547" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4Ih9Qz1Q6WMVKYqHJTV2-56" value="信息发布屏恢复：会议室空闲状态" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="217" y="1627" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4Ih9Qz1Q6WMVKYqHJTV2-57" value="探测无人超过15分钟，自动关闭设备" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="367" y="1627" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4Ih9Qz1Q6WMVKYqHJTV2-58" value="语音转写链接自动同步会务管理系统/OA邮箱" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="511" y="1627" width="129" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="4Ih9Qz1Q6WMVKYqHJTV2-59" value="信息发布屏&lt;br&gt;会议信息" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="405" y="1062" width="121" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="4Ih9Qz1Q6WMVKYqHJTV2-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="4Ih9Qz1Q6WMVKYqHJTV2-61">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="146.66666666666674" y="1060" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4Ih9Qz1Q6WMVKYqHJTV2-61" value="生成视频会议号" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="992" width="114" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="4Ih9Qz1Q6WMVKYqHJTV2-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="4Ih9Qz1Q6WMVKYqHJTV2-63">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="310" y="520" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="740" y="382" />
+              <mxPoint x="740" y="520" />
+              <mxPoint x="310" y="520" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4Ih9Qz1Q6WMVKYqHJTV2-63" value="填写视频会议信息（如：会议测试时间、是否需要会议录音等）" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="590" y="357" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="4Ih9Qz1Q6WMVKYqHJTV2-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="306.9999999999998" y="500" as="sourcePoint" />
+            <mxPoint x="306.9999999999998" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4Ih9Qz1Q6WMVKYqHJTV2-65" value="勾选所需会议室" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="450" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="4Ih9Qz1Q6WMVKYqHJTV2-66" value="&lt;span&gt;整合会议信息，微办公/短信通知相关人员&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="1062" width="120" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="4Ih9Qz1Q6WMVKYqHJTV2-67" value="IPAD上进行会议室使用满意度调研" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="1627" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4Ih9Qz1Q6WMVKYqHJTV2-68" value="3、会议设备管理" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="132" y="1880" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="4Ih9Qz1Q6WMVKYqHJTV2-69" value="日常巡检" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="316" y="1920" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4Ih9Qz1Q6WMVKYqHJTV2-70" value="实时排故" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="1920" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4Ih9Qz1Q6WMVKYqHJTV2-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4Ih9Qz1Q6WMVKYqHJTV2-72" target="4Ih9Qz1Q6WMVKYqHJTV2-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4Ih9Qz1Q6WMVKYqHJTV2-72" value="“语音转写”选项为灰色，不可选" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="576" y="633" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="4Ih9Qz1Q6WMVKYqHJTV2-73" value="“语音转写”选项可选" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="770" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="4Ih9Qz1Q6WMVKYqHJTV2-74" value="微办公/短信通知会议保障人员" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="992" width="114" height="38" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
